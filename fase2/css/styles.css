@@ -1,0 +1,32 @@
+
+body{
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #75c7ff;
+}
+section{
+  text-align: justify;
+  width: 50%;
+}
+article{
+  text-align: justify;
+  width: 70%;
+}
+
+footer{
+  text-align: center;
+  padding: 3px;
+  background-color: grey;
+  color: white;
+  margin-top: auto;
+}
+
+img{
+  margin: 10px;
+}
+
+a{
+  text-decoration: none;
+}
